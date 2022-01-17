@@ -2,7 +2,7 @@
 echo "######## git add ########"
 git add .
 echo "##########################"
-if [-z $1] 
+if [ -z $1 ] 
 then
 	echo "######## git commit ########"
 	git commit -m "auto update"
