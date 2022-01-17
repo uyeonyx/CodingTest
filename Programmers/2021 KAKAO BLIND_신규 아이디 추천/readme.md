@@ -1,6 +1,7 @@
 신규 아이디 추천 
 ================
-[문제링크](https://programmers.co.kr/learn/courses/30/lessons/72410)
+[문제링크](https://programmers.co.kr/learn/courses/30/lessons/72410)  
+_연관태그: #문자열_
 ***
 
 ## + 난이도: 1
@@ -139,6 +140,4 @@ no	new_id	result
 
 ## 문제 풀이
 문제가 매우 길어 읽기가 어렵지만,  
-단계에 따라 프로세스를 거쳐 String을 알맞게 변형시키면 되는 간단한 문제이다.  
-
-_연관태그: #문자열_
+단계에 따라 프로세스를 거쳐 String을 알맞게 변형시키면 되는 간단한 문제이다.
