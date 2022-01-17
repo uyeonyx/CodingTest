@@ -1,9 +1,16 @@
 #!/bin/bash
+echo "######## git add ########"
 git add .
-if [-z"$1"] 
+echo "##########################"
+if [-z $1] 
 then
-git commit -m "auto update"
+	echo "######## git commit ########"
+	git commit -m "auto update"
 else
-git commit -m "%s" $1
+	echo "######## git commit ########"
+	git commit -m "%s" $1
 fi
-git push
+	echo "##########################"
+	echo "######## git push ########"
+	git push
+	echo "##########################"
