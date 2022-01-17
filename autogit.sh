@@ -8,7 +8,7 @@ then
 	git commit -m "auto update"
 else
 	echo "######## git commit ########"
-	git commit -m "%s" $1
+	git commit -m "$1"
 fi
 	echo "##########################"
 	echo "######## git push ########"
