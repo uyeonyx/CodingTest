@@ -1,6 +1,10 @@
 # CodingTest_Portfolio
 
+![ex1](./example1.png){: width="40%" height="40%"}
+![ex2](./example2.png){: width="40%" height="40%"}
+
 * 문제링크
+* 문제설명, 제한사항, 입출력 등
 * 문제풀이 및 설명 
 
 
