@@ -1,6 +1,6 @@
 # CodingTest_Portfolio
-<img src="./example1.png  width="40%" height="40%"/>
-<img src="./example2.png  width="40%" height="40%"/>
+
+<img src="./example.png" width="50%" height="50%"/>  
 
 * 문제링크
 * 문제설명, 제한사항, 입출력 등
